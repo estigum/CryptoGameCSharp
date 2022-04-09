@@ -11,6 +11,7 @@ namespace CryptoGameConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Crypto Game. Test application");
+            Console.WriteLine("Will add more to this application");
             Console.ReadKey();
 
         }
