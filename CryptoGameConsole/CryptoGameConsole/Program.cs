@@ -10,7 +10,7 @@ namespace CryptoGameConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Crypto Game");
+            Console.WriteLine("Crypto Game. Test application");
             Console.ReadKey();
 
         }
